@@ -1,0 +1,7 @@
+package com.simpleJunk;
+
+import android.app.Activity;
+
+public class MainActivity extends Activity{
+
+}
