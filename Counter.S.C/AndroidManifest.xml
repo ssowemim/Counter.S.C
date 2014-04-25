@@ -23,13 +23,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.simpleJunk.counter.s.c.CounterDetailActivity"
-            android:label="@string/title_counter_detail"
-            android:parentActivityName="com.simpleJunk.counter.s.c.CounterListActivity" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.simpleJunk.counter.s.c.CounterListActivity" />
+            android:name="com.simpleJunk.counter.s.c.CounterDetailActivity" >
         </activity>
+        
     </application>
 
 </manifest>

@@ -3,5 +3,6 @@
 
     <string name="app_name">Counter.S.C</string>
     <string name="title_counter_detail">Counter Detail</string>
+    <string name="AppBaseTheme">AppBaseTheme</string>
 
 </resources>
